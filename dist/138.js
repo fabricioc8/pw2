@@ -1,1 +1,0 @@
-(self.webpackChunkpw2=self.webpackChunkpw2||[]).push([[138],{138:(e,n,w)=>{var t=w(294),a=w(935),c=w(555);window.React=t,window.ReactDOM=a,window.Photon=c,a.render(t.createElement("h1",null,"Con React"),document.getElementById("app"))}}]);
